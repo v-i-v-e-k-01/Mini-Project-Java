@@ -1,1 +1,1 @@
-This is mini project for semester 3
+# Sliding Tile Puzzle
